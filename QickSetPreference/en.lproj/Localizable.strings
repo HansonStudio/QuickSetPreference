@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  QickSetPreference
+
+  Created by Hanson on 2017/12/5.
+  Copyright © 2017年 HansonStudio. All rights reserved.
+*/
+"Quit" = "Quit";
+"HideDesktopIcon" = "Hide desktop icon";
+"ShowHiddenFiles" = "Show hidden files";
+"ShowFullPathOnFinder" = "Show full path on Finder";

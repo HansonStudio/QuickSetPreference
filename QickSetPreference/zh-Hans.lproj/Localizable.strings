@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  QickSetPreference
+
+  Created by Hanson on 2017/12/5.
+  Copyright © 2017年 HansonStudio. All rights reserved.
+*/
+"Quit" = "退出";
+"HideDesktopIcon" = "隐藏桌面图标";
+"ShowHiddenFiles" = "展示隐藏文件";
+"ShowFullPathOnFinder" = "在Finder上显示完整路径";
