@@ -1,5 +1,5 @@
-# QickSetPreference
- a simple status bar Mac app for setting something on Mac
+# QuickSetPreference
+ A simple status bar Mac app for setting something on Mac
  
  ## Feature
  - hide or show your desktop icon
